@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file alias="table">table2.JPG</file>
+    </qresource>
+</RCC>
